@@ -1,0 +1,7 @@
+{
+  "name": "mAadhaar Clone",
+  "description": "A high-fidelity React application recreating the mAadhaar login and onboarding experience, including splash screens, consent, and OTP verification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
